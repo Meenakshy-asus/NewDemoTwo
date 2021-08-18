@@ -1,0 +1,3 @@
+Good morning, this is the good morning text document.
+This text document is also created for practising git.
+Git and github is uded for this.

@@ -1,0 +1,3 @@
+Demo is a text document in DemoTwo Folder.
+It is created for pacticing git.
+Git is a distributed version control system.

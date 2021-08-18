@@ -1,0 +1,3 @@
+Hi, this is the example text document used for nothing.
+This is also created for practising git.
+In this document there is nothing much.
